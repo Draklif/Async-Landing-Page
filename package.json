@@ -4,7 +4,7 @@
   "description": "Proyecto del curso de Platzi de Asincronismo",
   "main": "index.js",
   "scripts": {
-    "gh-pages": "gh-pages -d src"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,7 @@
   ],
   "author": "Jose <josemanrenteria@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/Draklif/Plat-ProyectoAsincronismo#readme",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
